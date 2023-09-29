@@ -1,0 +1,3 @@
+[submodule "ekanshh-site/themes/hugo-profile"]
+    path = ekanshh-site/themes/hugo-profile
+    url = https://github.com/gurusabarish/hugo-profile.git
